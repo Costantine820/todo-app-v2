@@ -5,11 +5,12 @@
 ![Docker](https://img.shields.io/badge/Docker-Desktop-blue)  
 
 > **Aplikasi Todo List Sederhana dengan Flask + Docker + CI/CD Otomatis**  
-> Tugas Akhir - Sistem Informasi  
-> **NIM:** 22111917  
-> **Nama:** [NAMA ANDA]  
-> **Kelas:** [KELAS ANDA]  
+> Tugas Akhir 
+> **NIM:** 221111917  
+> **Nama:** Nicholas Tio
 
+> **NIM:** 221112405
+> **Nama:** Constantin Anggriano
 ---
 
 ## Deskripsi Proyek
@@ -108,3 +109,4 @@ Aplikasi web sederhana untuk mengelola **daftar tugas (Todo List)** dengan fitur
 ---
 
 ## Lisensi
+
